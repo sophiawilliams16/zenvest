@@ -23,8 +23,6 @@ This project was created in partnership with the founder Mary Holland Nader, in 
 
 This is a full stack web application powered by Javascript and architectured through the MERN stack (MongoDB, Express.js, React, and Node.js).
 
-Development Team: Sophia Williams, Joseph Mancini, Jacob Dupea, Dayes Camara 
-
 ## Table of Contents
 
 -   [Installation](#installation)
